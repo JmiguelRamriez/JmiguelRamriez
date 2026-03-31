@@ -65,15 +65,6 @@ A hardware voice assistant with wake word detection, real-time LLM responses (LL
 
 ---
 
-### 🔥 [DetectaGas — IoT Gas Leak Prevention](https://github.com/JmiguelRamriez/DetectaGas)
-> ESP32 · Rust (Axum) · React · MQTT · MySQL
-
-End-to-end IoT system for LP gas leak detection. ESP32 + MQ-5 sensor publishes to an MQTT broker; a concurrent Rust/Axum backend processes events and stores history; a React dashboard shows live alerts via WebSockets.
-
-`IoT` `Rust` `Real-time` `WebSocket` `Embedded`
-
----
-
 ### ✈️ [Flight Monitor & Data Analysis](https://github.com/JmiguelRamriez/flight_monitor)
 > Python · Data Analysis · Visualization
 
