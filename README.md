@@ -17,12 +17,6 @@
 
 I'm a **Robotics and Digital Systems Engineering** student at **Tecnológico de Monterrey (ITESM)**, Querétaro. I'm passionate about building systems that bridge the gap between hardware and software — from embedded firmware on microcontrollers to full-stack IoT pipelines and AI-powered devices.
 
-- 🔭 Currently building **Luna** — an ESP32-based AI voice assistant with wake word detection, OLED display, and LLM integration via Groq API
-- 🎓 **GPA: 3.7/4.0** | Socioeconomic Scholarship recipient
-- 🛠️ I enjoy working at every layer of the stack: PCB design → firmware → backend → frontend
-- 🌐 **Secretary & Community Manager** at ACM Student Chapter — organizing coding events and fostering tech culture
-- 💬 Speak: Spanish (Native), English (B2)
-
 ---
 
 ## 🛠️ Tech Stack
