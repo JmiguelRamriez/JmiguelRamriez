@@ -15,7 +15,7 @@
 
 ## 🤖 About Me
 
-I'm a **Robotics and Digital Systems Engineering** student at **Tecnológico de Monterrey (ITESM)**, Querétaro. I'm passionate about building systems that bridge the gap between hardware and software — from embedded firmware on microcontrollers to full-stack IoT pipelines and AI-powered devices.
+I'm a Robotics and Digital Systems Engineering student at Tecnológico de Monterrey (ITESM), Querétaro. I'm passionate about building systems that bridge the gap between hardware and software — from embedded firmware on microcontrollers to full-stack IoT pipelines and AI-powered devices.
 
 ---
 
