@@ -13,13 +13,13 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 I'm a Robotics and Digital Systems Engineering student at Tecnológico de Monterrey (ITESM), Querétaro. I'm passionate about building systems that bridge the gap between hardware and software — from embedded firmware on microcontrollers to full-stack IoT pipelines and AI-powered devices.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -54,9 +54,9 @@ I'm a Robotics and Digital Systems Engineering student at Tecnológico de Monter
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎙️ [Luna — ESP32 AI Voice Assistant](https://github.com/JmiguelRamriez/esp32-ai-assistant)
+### [Luna — ESP32 AI Voice Assistant](https://github.com/JmiguelRamriez/esp32-ai-assistant)
 > MicroPython · ESP32 · Groq API · gTTS · INMP441 · KiCad · OLED
 
 A hardware voice assistant with wake word detection, real-time LLM responses (LLaMA 3.1 via Groq), Spanish TTS, and an animated OLED eye display. Custom PCB designed in KiCad with Gerbers ready for fabrication.
@@ -65,7 +65,7 @@ A hardware voice assistant with wake word detection, real-time LLM responses (LL
 
 ---
 
-### ✈️ [Flight Monitor & Data Analysis](https://github.com/JmiguelRamriez/flight_monitor)
+### [Flight Monitor & Data Analysis](https://github.com/JmiguelRamriez/flight_monitor)
 > Python · Data Analysis · Visualization
 
 Processes and cleans real flight datasets, generates visual analytics, and uses modular scripts for scalability. Focuses on analytical thinking with real-world data.
@@ -74,7 +74,7 @@ Processes and cleans real flight datasets, generates visual analytics, and uses 
 
 ---
 
-### 🏆 [HackMTY 2025 — Financial Platform](https://github.com/JmiguelRamriez/HackMTY-2025)
+### [HackMTY 2025 — Financial Platform](https://github.com/JmiguelRamriez/HackMTY-2025)
 > TypeScript · Python · Web
 
 Team project built under competitive hackathon conditions. Contributed to data processing, logic implementation, and feature integration for a financial/data analysis platform.
@@ -83,7 +83,7 @@ Team project built under competitive hackathon conditions. Contributed to data p
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,14 +100,13 @@ Team project built under competitive hackathon conditions. Contributed to data p
 
 ---
 
-## 🎓 Education & Activities
+## Education & Activities
 
 | | |
 |---|---|
 | 🏫 **ITESM Querétaro** | B.S. Robotics & Digital Systems Engineering (2024 – Present) |
 | 🏅 **Scholarship** | Socioeconomic Scholarship · GPA 3.7/4.0 |
 | 💻 **ACM Student Chapter** | Secretary & Community Manager (Aug 2025 – Present) |
-| 🎮 **HackMTY 2025** | Competitive hackathon participant |
 
 ---
 
