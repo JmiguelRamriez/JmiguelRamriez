@@ -100,19 +100,7 @@ Team project built under competitive hackathon conditions. Contributed to data p
 
 ---
 
-## Education & Activities
-
-| | |
-|---|---|
-| 🏫 **ITESM Querétaro** | B.S. Robotics & Digital Systems Engineering (2024 – Present) |
-| 🏅 **Scholarship** | Socioeconomic Scholarship · GPA 3.7/4.0 |
-| 💻 **ACM Student Chapter** | Secretary & Community Manager (Aug 2025 – Present) |
-
----
-
-<div align="center">
-
-*"Build things that move and think."*
+]
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JmiguelRamriez.JmiguelRamriez)
 
