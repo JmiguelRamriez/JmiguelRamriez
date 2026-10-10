@@ -100,7 +100,7 @@ Team project built under competitive hackathon conditions. Contributed to data p
 
 ---
 
-]
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JmiguelRamriez.JmiguelRamriez)
 
